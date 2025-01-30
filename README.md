@@ -1,20 +1,18 @@
 # VR_Projet
 
-##Télécharger
-
+## Télécharger
 Clique
 
-##Installation
+## Installation
 
-##Auteurs
-
+## Auteurs
 Nous
 
-##Remerciements
+## Remerciements
 MERCI A VOUS !
 
-##Contribuant
+## Contribuant
 Contribuable
 
-##Licence
+## Licence
 F12K031652
